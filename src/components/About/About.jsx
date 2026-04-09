@@ -8,7 +8,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="grid grid-cols-1 md:grid-cols-2 gap-20 px-6 md:px-20 py-24 border-t border-[#222] bg-[#080808] items-center"
+      className="grid grid-cols-1 md:grid-cols-2 gap-20 px-6 md:px-20 py-24 border-t border-[#222]  items-center"
     >
       {/* Left */}
       <div>

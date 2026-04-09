@@ -23,7 +23,7 @@ export default function Hero() {
         <h1 className="animate-fade-up delay-250 font-bebas leading-[0.85] tracking-tight mb-2"
           style={{ fontSize: "clamp(5rem, 12vw, 10rem)" }}
         >
-          <GlitchText text="32Bits" />
+          <GlitchText text="Arpit" />
           <span
             className="block text-transparent"
             style={{

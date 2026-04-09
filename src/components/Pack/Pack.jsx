@@ -2,9 +2,9 @@ const PERKS = ["Lifetime access", "Free future updates", "+40GB of premium files
 
 export default function Pack() {
   return (
-    <section id="pack" className="px-6 md:px-20 py-24 border-t border-[#222] bg-[#0f0f0f]">
+    <section id="services" className="px-6 md:px-20 py-24 border-t border-[#222] bg-[#0f0f0f]">
       <p className="font-mono text-[0.6rem] tracking-[0.3em] text-[#ff2d55] mb-8 flex items-center gap-3 before:content-['—'] before:text-[#ff2d55]">
-        PACK
+        Personal
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
@@ -14,7 +14,7 @@ export default function Pack() {
             +40GB FILES
           </div>
           <h2 className="font-bebas text-[clamp(2rem,5vw,3.5rem)] leading-none tracking-[0.03em] mb-5 text-[#e8e8e8]">
-            COLLECTORS PACK 🗂️
+            Personal Projects 🗂️
           </h2>
           <p className="text-base text-[#999] leading-[1.7] font-light mb-7">
             My editing pack has finally dropped after a long wait! Over 40GB of files to

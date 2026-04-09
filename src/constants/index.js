@@ -1,4 +1,4 @@
-export const NAV_LINKS = ["HOME", "WORK", "PACK", "ABOUT", "CONTACT"];
+export const NAV_LINKS = ["HOME", "WORK", "SERVICES", "ABOUT", "CONTACT"];
 
 export const WORK_TABS = ["MOTION GRAPHICS", "EDITS", "REELS", "LONG VIDEOS"];
 
