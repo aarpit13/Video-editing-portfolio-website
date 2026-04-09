@@ -13,7 +13,7 @@ export default function About() {
       {/* Left */}
       <div>
         <p className="font-mono text-[0.6rem] tracking-[0.3em] text-[#ff2d55] mb-6 flex items-center gap-3 before:content-['—'] before:text-[#ff2d55]">
-          ABOUT ME
+          ABOUT YOUR
         </p>
         <h2 className="font-bebas text-[clamp(2.5rem,5vw,4rem)] leading-none tracking-[0.03em] mb-7 text-[#e8e8e8]">
           Crafting visual art in motion.
